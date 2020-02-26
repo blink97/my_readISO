@@ -1,0 +1,26 @@
+d-      2048 2016/10/17 21:00 .
+d-      2048 2016/10/17 21:00 ..
+d-      2048 2003/11/23 05:11 MP3
+d-      2048 2016/10/17 21:00 PICS
+--       156 2003/11/23 05:12 README.TXT
+Changing to 'MP3' directory
+d-      2048 2003/11/23 05:11 .
+d-      2048 2016/10/17 21:00 ..
+--     80773 2003/11/23 05:09 TEST1.MP3
+--     73668 2003/11/23 05:09 TEST2.MP3
+Changing to '..' directory
+System Identifier: LINUX                           
+Volume Identifier: CDROM                           
+Block count: 2214
+Block size: 2048
+Creation date: 2016101720311800
+Application Identifier: GENISOIMAGE ISO 9660/HFS FILESYSTEM CREATOR (C) 1993 E.YOUNGDALE (C) 1997-2006 J.PEARSON/J.SCHILLING (C) 2006-2007 CDRKIT TEAM  
+help: display command help
+info: display volume info
+ls: display the content of a directory
+cd: change current directory
+tree: display the tree of a directory
+get: copy file to local directory
+cat: display file content
+pwd: print current path
+quit: program exit

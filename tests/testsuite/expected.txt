@@ -1,0 +1,52 @@
+d-      2048 2017/10/08 09:29 .
+d-      2048 2017/10/08 09:29 ..
+d-      2048 2017/10/08 09:29 MP3
+d-      2048 2017/10/08 09:29 PICS
+--       156 2017/10/08 09:27 README.TXT
+.
+|-- MP3/
+|   |-- TEST1.MP3
+|   |-- TEST2.MP3
+|-- PICS/
+|   |-- BG75.JPG
+|   |-- SECRET/
+|   |   |-- ORDURE.JPG
+|   |   |-- ORDURES.CSV
+|-- README.TXT
+
+3 directories, 6 files
+Changing to 'MP3' directory
+.
+|-- TEST1.MP3
+|-- TEST2.MP3
+
+0 directories, 2 files
+d-      2048 2017/10/08 09:29 .
+d-      2048 2017/10/08 09:29 ..
+--     80773 2017/10/08 09:27 TEST1.MP3
+--     73668 2017/10/08 09:27 TEST2.MP3
+Changing to '/' directory
+Changing to 'PICS' directory
+.
+|-- BG75.JPG
+|-- SECRET/
+|   |-- ORDURE.JPG
+|   |-- ORDURES.CSV
+
+1 directories, 3 files
+Changing to '/' directory
+System Identifier: LINUX                           
+Volume Identifier: CDROM                           
+Block count: 2214
+Block size: 2048
+Creation date: 2017100809360263
+Application Identifier: MKISOFS ISO9660/HFS/UDF FILESYSTEM BUILDER & CDRECORD CD/DVD/BluRay CREATOR (C) 1993 E.YOUNGDALE (C) 1997 J.PEARSON/J.SCHILLING 
+help: display command help
+info: display volume info
+ls: display the content of a directory
+cd: change current directory
+tree: display the tree of a directory
+get: copy file to local directory
+cat: display file content
+pwd: print current path
+quit: program exit

@@ -1,0 +1,12 @@
+ls
+tree
+cd MP3
+tree
+ls
+cd
+cd PICS
+tree
+cd ..
+info
+help
+quit
