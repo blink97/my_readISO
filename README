@@ -1,0 +1,18 @@
+This directoy contains the work of my_read_iso projet form EPITA
+
+How to start it :
+form the root : 
+  - execute the command "make". You just create the executable
+  - lauch the program with ./my_read_iso ISO_FILE
+
+in the iso9660 file :
+  - you can execute the basic shell command (cd, ls, help, info, cat)
+
+How to start the testsuite :
+from the root, execute the command "make test". You will see the difference
+with the reference binary (which isn't in the directory)
+
+Execute the command "make clean" for clean the directory
+
+Credit:
+-gandil_e
